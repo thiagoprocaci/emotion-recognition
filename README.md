@@ -5,7 +5,7 @@
 
 ### Instructions
 
-I used a [pre-trained model](http://www.robots.ox.ac.uk/~albanie/models/pytorch-mcn/resnet50_face_sfew_dag.py) with its [weights](http://www.robots.ox.ac.uk/~albanie/models/pytorch-mcn/resnet50_face_sfew_dag.pth).
+I used a pre-trained [model](http://www.robots.ox.ac.uk/~albanie/models/pytorch-mcn/resnet50_face_sfew_dag.py) with its [weights](http://www.robots.ox.ac.uk/~albanie/models/pytorch-mcn/resnet50_face_sfew_dag.pth).
 In main.py you will find the code that downloads the model weights.
 
 ````
